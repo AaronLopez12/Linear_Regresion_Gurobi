@@ -1,5 +1,5 @@
 # Linear_Regression_Gurobi
-Simple Linear Regresion  models for with Gurobi and R. 
+Simple Linear Regresion  models with Gurobi and R. 
 
 
 Optimization Methods I
